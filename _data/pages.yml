@@ -4,3 +4,6 @@
 - url: yhteentoimivuus.html
   title: Yhteentoimivuus
   layout: page
+- url: tietoturva.html
+  title: Tietoturva, tietosuoja, lisenssit ja suositukset
+  layout: page
