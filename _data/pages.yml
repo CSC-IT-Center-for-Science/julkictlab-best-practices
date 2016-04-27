@@ -7,3 +7,6 @@
 - url: tietoturva.html
   title: Tietoturva, tietosuoja, lisenssit ja suositukset
   layout: page
+- url: hankinta.html
+  title: Hankinta
+  layout: page
