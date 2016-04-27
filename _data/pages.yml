@@ -1,3 +1,6 @@
 - url: autentikointi.html
   title: Autentikointi
   layout: page
+- url: yhteentoimivuus.html
+  title: Yhteentoimivuus
+  layout: page
