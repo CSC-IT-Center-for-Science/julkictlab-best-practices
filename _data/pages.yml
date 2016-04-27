@@ -10,3 +10,6 @@
 - url: hankinta.html
   title: Hankinta
   layout: page
+- url: devops.html
+  title: Devops
+  layout: page
