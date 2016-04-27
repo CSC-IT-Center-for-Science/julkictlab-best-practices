@@ -16,3 +16,6 @@
 - url: prosessit.html
   title: Prosessit ja metodologiat
   layout: page
+- url: tyopohjat.html
+  title: Työpohjat
+  layout: page
