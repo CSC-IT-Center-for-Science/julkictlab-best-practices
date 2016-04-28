@@ -458,4 +458,9 @@ pre {
 
 dd {
   margin-bottom: 10px;
+  margin-left: 40px;
+}
+
+dt {
+  font-size: 105%;
 }
