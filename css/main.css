@@ -458,9 +458,18 @@ pre {
 
 dd {
   margin-bottom: 10px;
-  margin-left: 40px;
-}
+  margin-left: 40px; }
 
 dt {
-  font-size: 105%;
-}
+  font-size: 105%; }
+
+nav.site-nav {
+  float: right;
+  max-width: 200px;
+  margin-right: 20px; }
+
+a.page-link {
+  display: block; }
+
+article {
+  margin-right: 260px; }

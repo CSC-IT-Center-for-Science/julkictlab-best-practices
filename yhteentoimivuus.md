@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 [Avoindata.fi](http://Avoindata.fi){:target="_blank"}
 : Palvelussa voit etsiä muiden julkaisemia tietoaineistoja sekä julkaista ja

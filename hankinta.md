@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 [Hankintalaki](http://www.finlex.fi/fi/laki/ajantasa/2007/20070348){:target="_blank"}

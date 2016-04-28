@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 [Työkaluja IT-admineille](http://sysadmin.it-landscape.info/){:target="_blank"}

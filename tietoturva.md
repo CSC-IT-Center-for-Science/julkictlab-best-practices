@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 [Creative Commons -lisenssit](http://creativecommons.fi/){:target="_blank"}

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 [Eduuni-ID](http://info.eduuni.fi/){:target="_blank"}
