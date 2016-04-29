@@ -11,7 +11,7 @@ layout: page
 [Tupas-varmennepalvelu](https://www.fkl.fi/teemasivut/sahkoinen_asiointi/tupas/Sivut/default.aspx){:target="_blank"}
 : Mahdollistaa vahvan tunnistautumisen henkilökohtaisilla pankkitunnuksilla.
 
-[Virtu](http://www.valtori.fi/fi-FI/Palvelut/Kayttopalvelut){:target="_blank"}
+[Virtu](http://www.valtori.fi/fi-FI/Palvelut/Tietojarjestelmapalvelut/Kertakirjautumisratkaisu_Virtu/Kertakirjautumisratkaisu_Virtu){:target="_blank"}
 : Virkamiehen
 kertakirjautumisratkaisu Virtu on SAML2-tekniikkaan perustuva
 kirjautumismenetelmä valtionhallinnon käyttöön. Virtu-kirjautumista varten on
