@@ -21,3 +21,5 @@ layout: page
 
 [VAHTI-ohjeet](https://www.vahtiohje.fi/web/guest/vm-vahti-ja-tietoturvallisuus){:target="_blank"}
 : Valtiovarainministeriö ohjaa ja yhteen sovittaa julkishallinnon ja erityisesti valtionhallinnon tietoturvallisuuden kehittämistä. Ministeriön asettama Valtionhallinnon tietoturvallisuuden johtoryhmä VAHTI on hallinnon tietoturvallisuuden ohjaamisen, kehittämisen ja koordinaation elin. VAHTI käsittelee kaikki merkittävät valtionhallinnon tietoturvallisuuden linjaukset ja tietoturvatoimenpiteiden ohjausasiat.
+
+: VAHTI-tietoturvatasojen saavuttamiseksi tarpeet ja prosessit pitää olla kartoitettuna ja kirjattuna. Erityisesti jos kyseessä on sovelluskehitysprojekti, VAHTI 1/2013 sovelluskehityksen tietoturvaohjeisiin ja tämän tavoitteiden täyttämiseen voi käyttää hyödyksi esimerkiksi tämän sivuston tarjoamaa [valmispohjaa](docs/VAHTI_SoftwareDevelopmentPlan_v1.0.docx). Sen tarkoituksena on auttaa pohtimaan tietoturvan ja laadun osalta oleellisia asioita jo projektin alkuvaiheesta lähtien.
