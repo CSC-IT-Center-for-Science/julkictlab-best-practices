@@ -14,3 +14,6 @@ Avoimen tuotteen hallintamalli
 
 [Tietosuojaseloste](http://www.tietosuoja.fi/fi/index/materiaalia/lomakkeet/rekisteri-jatietosuojaselosteet.html){:target="_blank"}
 : Tietosuojavaltuutetun toimisto tarjoaa valmiita pohjia tietosuojaselosteen sekä rekisteriselosteen rakentamisen tueksi.
+
+[VAHTI 1/2013 Sovelluskehityksen tietoturvaohje](https://www.vahtiohje.fi/web/guest/vahti-1/2013-sovelluskehityksen-tietoturvaohje){:target="_blank"}
+: VAHTI sovelluskehityksen tietoturvaohjeiden kattamien asioiden täyttämiseksi projektin lähtökohdista tarjotaan valmista [pohjaa](docs/VAHTI_SoftwareDevelopmentPlan_v1.0.docx). Pohja on tarkoitettu avuksi suunnitellessa ja toteutettaessa ohjelmistoja tietoturvallisesti ja hyvien käytäntöjen mukaisesti.
